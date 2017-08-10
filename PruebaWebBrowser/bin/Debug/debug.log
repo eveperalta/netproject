@@ -1,0 +1,333 @@
+[0413/102059:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0418/113736:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0418/121311:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0418/121945:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0418/122613:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0418/124219:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0418/134041:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0418/160542:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0418/162023:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0418/162642:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0418/163410:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0418/171221:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0418/171527:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0418/173206:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-0055F3A0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0418/173608:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0419/002315:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0419/002315:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACBDB8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/002315:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACBDB8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/002315:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACBDB8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/002315:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACBDB8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/002315:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACBDB8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/002315:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACBDB8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/002746:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04A792E0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/002746:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04A792E0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/002746:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04A792E0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/122053:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-080882B0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/122053:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-080882B0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/122053:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-080882B0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/122234:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07E68500]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/122234:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07E68500]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/122234:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07E68500]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/122234:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07E68500]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/122234:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07E68500]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/122234:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07E68500]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/122915:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0419/123053:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-0564A2D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/123053:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-0564A2D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/123053:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-0564A2D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/123053:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-0564A2D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/123053:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-0564A2D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/123053:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-0564A2D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/125328:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0419/125402:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04DEF518]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/125402:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04DEF518]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/125402:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04DEF518]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/125402:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04DEF518]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/125402:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04DEF518]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/125530:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04988690]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/125530:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04988690]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/125530:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04988690]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/125530:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04988690]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/131718:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0419/202116:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0419/202116:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04CEDD38]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/202116:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04CEDD38]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/202116:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04CEDD38]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0419/202116:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04CEDD38]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/102725:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0420/102730:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0420/112604:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/123326:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/124403:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/124453:ERROR:ipc_channel_win.cc(519)] pipe error: 232
+[0420/133718:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135021:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07F546D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135233:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04C3D8F0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135233:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04C3D8F0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/135318:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/135318:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07D216C0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/140240:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/140312:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07D6E2D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/140312:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07D6E2D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/140312:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07D6E2D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/140312:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07D6E2D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/140312:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07D6E2D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/140312:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07D6E2D8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/140920:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/141325:ERROR:gles2_cmd_decoder.cc(12775)] Context lost because SwapBuffers failed.
+[0420/141325:ERROR:gles2_cmd_decoder.cc(13124)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0420/141325:ERROR:gles2_cmd_decoder.cc(4548)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0420/141325:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0420/141325:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0420/141325:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0420/141325:ERROR:gpu_channel_manager.cc(253)] Exiting GPU process because some drivers cannot recover from problems.
+[0420/141325:ERROR:gl_bindings_autogen_gl.cc(11511)] Trying to call glDeleteTextures() without current GL context
+[0420/141413:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/141824:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/154959:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/160253:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/160843:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/161410:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/161812:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/161911:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/162654:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/162654:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-0994D500]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/162654:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-0994D500]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0420/163540:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/164530:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0420/164609:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0421/161449:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07D8F560]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0421/195709:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0421/195714:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0421/195953:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-068B10B0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0421/200024:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0421/200454:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04CEBF70]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0421/221924:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0421/222025:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0421/225425:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0422/022156:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0422/022614:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07CE5998]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0422/023441:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-08B10438]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0422/023441:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-08B10438]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0423/174852:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0423/194229:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0423/195712:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0423/200344:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0423/202021:ERROR:ipc_channel_win.cc(519)] pipe error: 232
+[0423/213637:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0423/213807:WARNING:ipc_channel_win.cc(375)] Unable to create pipe "\\.\pipe\chrome.5588.0.168888850" in client mode: El sistema no puede encontrar el archivo especificado. (0x2)
+[0423/223005:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0423/223005:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04510AA8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/002333:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0424/003553:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07DB6620]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/003553:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-07DB6620]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/003708:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-09152478]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/064431:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0424/083340:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-089EA9A8]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094236:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04ACAFB0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094617:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0424/094721:ERROR:gles2_cmd_decoder.cc(13997)] [.CommandBufferContext.RenderWorker-04B63618]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0427/121028:ERROR:ipc_channel_win.cc(519)] pipe error: 232
+[0427/123241:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Sólo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto) (0x2740)
+[0427/123241:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132201:ERROR:gles2_cmd_decoder.cc(14683)] [.CommandBufferContext.DisplayCompositor-0D7A4788]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[0427/132201:ERROR:gles2_cmd_decoder.cc(7857)] [.CommandBufferContext.DisplayCompositor-0D7A4788]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[0427/132739:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0427/132944:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0427/134706:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/134711:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0427/134718:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/185609:WARNING:ipc_channel_win.cc(375)] Unable to create pipe "\\.\pipe\chrome.8204.1.174253153" in client mode: El sistema no puede encontrar el archivo especificado. (0x2)
+[0502/191218:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/191223:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192117:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192122:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192533:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192538:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192556:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192601:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192657:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192702:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192735:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192740:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192745:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192750:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192755:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192809:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192812:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0502/192812:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192815:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192817:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192819:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0502/192819:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192821:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192824:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192826:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0502/192826:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192828:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192913:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192918:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/192923:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/193150:ERROR:ipc_channel_win.cc(519)] pipe error: 232
+[0502/193340:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/193345:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/193350:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/193431:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/193436:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/193441:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/193456:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/193501:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/193506:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/193507:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0502/193514:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/193524:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/193529:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/193534:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/193537:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/194002:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/194007:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/194026:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/194047:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/194051:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0502/194058:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/194111:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/194345:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/194349:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0502/194349:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/194354:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/194438:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/194624:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/194629:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0502/194715:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/194717:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0502/194723:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/194947:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/194952:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/195030:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/195035:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/195047:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/195108:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/200323:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/200328:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/200333:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/200725:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/200730:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/200732:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/200737:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/200950:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/200951:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0502/200956:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0502/200958:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0503/104426:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0503/104431:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0504/112925:WARNING:http_network_transaction.cc(339)] Blocked proxy response with status 407 to CONNECT request for sodimaqueta.herokuapp.com:443.
+[0505/122844:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0505/122942:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto) (0x2740)
+[0505/122942:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0508/130909:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0508/131816:ERROR:ipc_channel_win.cc(482)] pipe error: 109

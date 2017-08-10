@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A5421766-F9AD-45B4-97D4-EC60D711DCE0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PruebaWebBrowser</RootNamespace>
+    <AssemblyName>PruebaWebBrowser</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CefSharp">
+      <HintPath>..\..\..\..\..\Downloads\CefSharp51_x32\CefSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="CefSharp.Core">
+      <HintPath>..\..\..\..\..\Downloads\CefSharp51_x32\CefSharp.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="CefSharp.WinForms">
+      <HintPath>..\..\..\..\..\Downloads\CefSharp51_x32\CefSharp.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Muros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Muros.Designer.cs">
+      <DependentUpon>Muros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pisos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pisos.Designer.cs">
+      <DependentUpon>Pisos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RenderProcessMessageHandler.cs" />
+    <EmbeddedResource Include="Muros.resx">
+      <DependentUpon>Muros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pisos.resx">
+      <DependentUpon>Pisos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\piedra-cultivada-fast-set-chocolate.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cisa_Ceramiche_Modula_Antracite_Tile.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cisa_Ceramiche_Modula_Gold_Tile.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f9261dc3011c5b81b4e496dd2f3e27da.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resources\ImagenesProductos\CeramicaMarm\1182005.jpg" />
+    <Content Include="Resources\ImagenesProductos\CeramicaMarm\2230313.jpg" />
+    <Content Include="Resources\ImagenesProductos\CeramicaMarm\2230321.jpg" />
+    <Content Include="Resources\ImagenesProductos\CeramicaMarm\2771640.jpg" />
+    <Content Include="Resources\ImagenesProductos\CeramicaMarm\2771667.jpg" />
+    <Content Include="Resources\ImagenesProductos\CeramicaMarm\2850397.jpg" />
+    <Content Include="Resources\ImagenesProductos\CeramicaMarm\3179702.jpg" />
+    <Content Include="Resources\ImagenesProductos\Ceramicas\1862626.jpg" />
+    <Content Include="Resources\ImagenesProductos\Ceramicas\1862634.jpg" />
+    <Content Include="Resources\ImagenesProductos\Ceramicas\1862642.jpg" />
+    <Content Include="Resources\ImagenesProductos\Ceramicas\1862707.jpg" />
+    <Content Include="Resources\ImagenesProductos\Ceramicas\1862715.jpg" />
+    <Content Include="Resources\ImagenesProductos\Ceramicas\1862723.jpg" />
+    <Content Include="Resources\ImagenesProductos\Ceramicas\2684357.jpg" />
+    <Content Include="Resources\ImagenesProductos\Ceramicas\3010341.jpg" />
+    <Content Include="Resources\ImagenesProductos\Ceramicas\301035X.jpg" />
+    <Content Include="Resources\ImagenesProductos\Flotante\1280171.jpg" />
+    <Content Include="Resources\ImagenesProductos\Flotante\202036X.jpg" />
+    <Content Include="Resources\ImagenesProductos\Flotante\2020378.jpg" />
+    <Content Include="Resources\ImagenesProductos\Flotante\2037971.jpg" />
+    <Content Include="Resources\ImagenesProductos\Flotante\2048736.jpg" />
+    <Content Include="Resources\ImagenesProductos\Flotante\2666898.jpg" />
+    <Content Include="Resources\ImagenesProductos\Flotante\2666901.jpg" />
+    <Content Include="Resources\ImagenesProductos\Flotante\266691Xv2.jpg" />
+    <Content Include="Resources\ImagenesProductos\Flotante\266691X.jpg" />
+    <Content Include="Resources\ImagenesProductos\Flotante\2666928.jpg" />
+    <Content Include="Resources\ImagenesProductos\Madera\1116983.jpg" />
+    <Content Include="Resources\ImagenesProductos\Madera\1181777.jpg" />
+    <Content Include="Resources\ImagenesProductos\Madera\1181785.jpg" />
+    <Content Include="Resources\ImagenesProductos\Madera\1194364.jpg" />
+    <Content Include="Resources\ImagenesProductos\Madera\2011778.jpg" />
+    <Content Include="Resources\ImagenesProductos\Madera\2123568.jpg" />
+    <Content Include="Resources\ImagenesProductos\Madera\2123584.jpg" />
+    <Content Include="Resources\ImagenesProductos\Madera\2123592.jpg" />
+    <Content Include="Resources\ImagenesProductos\Madera\2279657.jpg" />
+    <Content Include="Resources\ImagenesProductos\Papel\1592378.jpg" />
+    <Content Include="Resources\ImagenesProductos\Papel\1592394.jpg" />
+    <Content Include="Resources\ImagenesProductos\Papel\1592416.jpg" />
+    <Content Include="Resources\ImagenesProductos\Papel\1592459.jpg" />
+    <Content Include="Resources\ImagenesProductos\Papel\1592548.jpg" />
+    <Content Include="Resources\ImagenesProductos\Papel\1592564.jpg" />
+    <Content Include="Resources\ImagenesProductos\Papel\1592599.jpg" />
+    <Content Include="Resources\ImagenesProductos\Papel\1592602.jpg" />
+    <Content Include="Resources\ImagenesProductos\Papel\1592629.jpg" />
+    <Content Include="Resources\ImagenesProductos\Porcelanato\2052121.jpg" />
+    <Content Include="Resources\ImagenesProductos\Porcelanato\2667363.jpg" />
+    <Content Include="Resources\ImagenesProductos\Porcelanato\2815915.jpg" />
+    <Content Include="Resources\ImagenesProductos\Porcelanato\2840111.jpg" />
+    <Content Include="Resources\ImagenesProductos\Porcelanato\2931176.jpg" />
+    <Content Include="Resources\ImagenesProductos\Porcelanato\2931184.jpg" />
+    <Content Include="Resources\ImagenesProductos\Porcelanato\2931192.jpg" />
+    <Content Include="Resources\ImagenesProductos\Vinilico\2125463.jpg" />
+    <Content Include="Resources\ImagenesProductos\Vinilico\212548X.jpg" />
+    <Content Include="Resources\ImagenesProductos\Vinilico\2346834.jpg" />
+    <Content Include="Resources\ImagenesProductos\Vinilico\2346842.jpg" />
+    <Content Include="Resources\ImagenesProductos\Vinilico\2756129.jpg" />
+    <Content Include="Resources\ImagenesProductos\Vinilico\2756137.jpg" />
+    <Content Include="Resources\ImagenesProductos\Vinilico\2829088.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
